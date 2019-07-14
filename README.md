@@ -1,4 +1,4 @@
-# kickstarter-success
+# Future Vision
 ![kickstarter image](kickstarter.png)
 
 by Sherry Yang and  Kevin Velasco
@@ -18,8 +18,6 @@ We are offering a beta model that can produce a likelihood estimation for whethe
 * Create a pipeline
 * Create Model 1 using Logistic Regression 
 * Create Model 2 using Random Forest Classifier 
-* Score Model 1 
-* Score Model 2 
 * Compare performance of models relative to our client needs
 
 ### Model Prediction
